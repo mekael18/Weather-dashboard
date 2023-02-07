@@ -17,6 +17,12 @@ history.
 - CSS
 - OpenWeatherMap API
 
+### Author & Application Link
+
+- Mekael Abdullah 
+- https://github.com/mekael18
+- 
+
 ### Acknowledgments
 
 - The OpenWeatherMap API documentation (https://openweathermap.org/api)

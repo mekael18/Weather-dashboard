@@ -45,7 +45,7 @@ form.addEventListener('submit', event => {
             // Get the date and time of the forecast
             var dateTime = forecastData.dt_txt;
             // Get the temperature and weather condition
-            var temperature = forecastData.main.temp + '°C';
+            var temperature = forecastData.main.temp + '°c';
             var condition = forecastData.weather[0].main;
             var humidity = forecastData.main.humidity + '%';
             var windSpeed = forecastData.wind.speed + ' m/s';
